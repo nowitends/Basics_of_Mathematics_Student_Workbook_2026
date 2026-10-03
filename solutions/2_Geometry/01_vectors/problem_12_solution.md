@@ -13,3 +13,11 @@ Their cross product is
 $$\overrightarrow{AB}\times\overrightarrow{AC}=(5,3,4).$$
 
 Thus $n=(5,3,4)$ is a normal vector to the plane through the three points.
+
+The requested dot-product checks are
+
+$$n\cdot\overrightarrow{AB}=5+3-8=0,$$
+
+$$n\cdot\overrightarrow{AC}=-5+9-4=0.$$
+
+Both in-plane directions are perpendicular to $n$, which verifies that $n$ is a normal vector.

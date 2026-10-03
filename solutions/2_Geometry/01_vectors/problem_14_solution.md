@@ -15,3 +15,9 @@ $$P-Q=\left(\frac{14}{5},-\frac75\right),$$
 so the distance is
 
 $$\|P-Q\|=\sqrt{\frac{196+49}{25}}=\frac{7}{\sqrt5}.$$
+
+The perpendicularity check is
+
+$$(P-Q)\cdot v=\left(\frac{14}{5},-\frac75\right)\cdot(1,2)=\frac{14}{5}-\frac{14}{5}=0.$$
+
+Thus the displacement from $Q$ to $P$ is perpendicular to the line direction. A perpendicular segment is the shortest segment from a point to a line, so this also explains why $Q$ is the closest point.

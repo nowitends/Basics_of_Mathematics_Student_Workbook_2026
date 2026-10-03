@@ -15,3 +15,5 @@ $$r=u-\operatorname{proj}_v u=(4,2)-(3,3)=(1,-1),$$
 and the requested calculation is
 
 $$r\cdot v=(1,-1)\cdot(1,1)=1-1=0.$$
+
+The projection $(3,3)$ is parallel to $v$, so it is the component of $u$ in the projection direction. Subtracting this parallel component leaves the perpendicular component $r$. The zero dot product verifies geometrically that $r$ is perpendicular to the direction $v$.

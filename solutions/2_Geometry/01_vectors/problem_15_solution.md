@@ -13,3 +13,11 @@ This value is one because multiplying by a positive scalar changes length but no
 For the pair $a,c$,
 
 $$\frac{a\cdot c}{\|a\|\|c\|}=\frac{5}{\sqrt6\sqrt{13}}=\frac5{\sqrt{78}}.$$
+
+For the remaining pair,
+
+$$\frac{b\cdot c}{\|b\|\|c\|}=\frac{10}{\sqrt{24}\sqrt{13}}=\frac5{\sqrt{78}}.$$
+
+Because cosine decreases as the angle increases on $[0,\pi]$, the increasing-angle order is
+
+$$(a,b)\quad\text{first},\qquad (a,c)=(b,c)\quad\text{tied afterward}.$$
